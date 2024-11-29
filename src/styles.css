@@ -1,0 +1,20 @@
+body {
+    text-align: center;
+    background: light;
+    color: dark;
+  } 
+  button,
+  input {
+    padding: 10px;
+    cursor: pointer;
+  }
+  .dark {
+    background: black;
+    color: white;
+  }
+  button.done {
+    background: green;
+  } 
+  button.not-done {
+    background: lightgray;
+  }
